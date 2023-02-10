@@ -1,5 +1,5 @@
 # Take-Home-Test
-# For Section C to  test and run the solution on Linux, macOS and Windows operating systems following the instructions below
+For Section C to  test and run the solution on Linux, macOS and Windows operating systems following the instructions below
 To build, test and run the solution on Linux, macOS and Windows operating systems, the following instructions and scripts should be used:
 
 Linux:
